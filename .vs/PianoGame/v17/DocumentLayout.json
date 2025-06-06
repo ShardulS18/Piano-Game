@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shardul\\Desktop\\PianoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3EE3B1-87D2-1681-9A4F-FA7EDB7FE64B}|Assembly-CSharp.csproj|c:\\users\\shardul\\desktop\\pianogame\\assets\\scripts\\notespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3EE3B1-87D2-1681-9A4F-FA7EDB7FE64B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3EE3B1-87D2-1681-9A4F-FA7EDB7FE64B}|Assembly-CSharp.csproj|C:\\Users\\Shardul\\Desktop\\PianoGame\\assets\\scripts\\notebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3EE3B1-87D2-1681-9A4F-FA7EDB7FE64B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3EE3B1-87D2-1681-9A4F-FA7EDB7FE64B}|Assembly-CSharp.csproj|C:\\Users\\Shardul\\Desktop\\PianoGame\\assets\\scripts\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3EE3B1-87D2-1681-9A4F-FA7EDB7FE64B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Shardul\\Desktop\\PianoGame\\Assets\\Scripts\\NoteSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NoteSpawner.cs",
+              "ToolTip": "C:\\Users\\Shardul\\Desktop\\PianoGame\\Assets\\Scripts\\NoteSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NoteSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:12:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Shardul\\Desktop\\PianoGame\\Assets\\Scripts\\NoteBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NoteBehaviour.cs",
+              "ToolTip": "C:\\Users\\Shardul\\Desktop\\PianoGame\\Assets\\Scripts\\NoteBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NoteBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:59:56.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioController.cs",
+              "DocumentMoniker": "C:\\Users\\Shardul\\Desktop\\PianoGame\\Assets\\Scripts\\AudioController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioController.cs",
+              "ToolTip": "C:\\Users\\Shardul\\Desktop\\PianoGame\\Assets\\Scripts\\AudioController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:07:28.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
