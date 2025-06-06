@@ -100,7 +100,3 @@ This project demonstrates:
 - Object-oriented programming patterns
 - Game timing and rhythm mechanics
 - Physics-based collision detection
-
----
-
-*Developed as a learning project to explore Unity's audio systems and rhythm game mechanics.*
